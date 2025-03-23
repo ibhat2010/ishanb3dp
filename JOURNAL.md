@@ -7,3 +7,9 @@ Total hours so far: 0
 - [x] I have a 3D printer (Voxelab Aries)
 
 3/23/2025 - Began Research
+
+My requirements:
+
+- [x] Cartesian (since I already have a CoreXY)
+- [x] I Will Build My Own UI in LVGL + Connect It to 3D Printer Firmware
+- [x] Files Will Wirelessly Transfer with ESP32
