@@ -2,7 +2,7 @@ Made by: @ishan // Ishan Bhat
 
 Repository link: https://github.com/ibhat2010/ishanb3dp
 
-Total hours so far: 5
+Total hours so far: 7
 
 - [x] I have a 3D printer (Voxelab Aries)
 
@@ -14,4 +14,8 @@ My requirements:
 - [x] I Will Build My Own UI in LVGL + Connect It to 3D Printer Firmware
 - [x] Files Will Wirelessly Transfer with ESP32
 
-4 Hours Researched Process and Started Modeling The Base
+4 Hours Process and Started Modeling The Base
+
+3/24/2025
+
+2 Hours Worked Through Midnight
