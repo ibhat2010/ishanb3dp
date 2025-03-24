@@ -13,3 +13,5 @@ My requirements:
 - [x] Cartesian (since I already have a CoreXY)
 - [x] I Will Build My Own UI in LVGL + Connect It to 3D Printer Firmware
 - [x] Files Will Wirelessly Transfer with ESP32
+
+4 Hours Researched Process and Started Modeling The Base
