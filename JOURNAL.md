@@ -30,10 +30,10 @@ Pondered for a while.
 
 I temporarily give up. This project is to be continued, should I have time before the due date (hopefully).
 
-Later that day.
+Later that day...
 
-NEVER GIVE UP NEVER WHAT
+NEVER GIVE UP NEVER WHAT-
 
--4 Hhours of modeling later-
+-4 hours of modeling later-
 
-"What was I thinking giving up"
+"What was I thinking giving up???"
