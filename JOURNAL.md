@@ -2,7 +2,7 @@ Made by: @ishan // Ishan Bhat
 
 Repository link: https://github.com/ibhat2010/ishanb3dp
 
-Total hours so far: 7
+Total hours so far: 10
 
 - [x] I have a 3D printer (Voxelab Aries)
 
@@ -19,3 +19,9 @@ My requirements:
 3/24/2025
 
 2 Hours Worked Through Midnight
+
+Later that day...
+
+3 Hours of Modeling After
+
+This is WAY too hard. I'm switching by requirement from Cartesian to CoreXY, so I can 'copy' the printer I already have. Wish me luck.
