@@ -25,3 +25,7 @@ Later that day...
 3 Hours of Modeling After
 
 This is WAY too hard. I'm switching by requirement from Cartesian to CoreXY, so I can 'copy' the printer I already have. Wish me luck.
+
+Pondered for a while.
+
+I temporarily give up. This project is to be continued, should I have time before the due date (hopefully).
