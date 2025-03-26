@@ -2,7 +2,7 @@ Made by: @ishan // Ishan Bhat
 
 Repository link: https://github.com/ibhat2010/ishanb3dp
 
-Total hours so far: 14
+Total hours so far: 23
 
 - [x] I have a 3D printer (Voxelab Aries)
 
@@ -50,4 +50,8 @@ I have now completed the frame and modeled the PCB holder, which I'm not sure wh
 
 3/25/2025
 
-I finalized the plate holder/mount on my design and added the rail which will carry the extruder and any belts. I've ensured that any motors and electronic components will fit, and I've modeled the Z-axis. I'll be 
+I finalized the plate holder/mount on my design and added the rail which will carry the extruder and any belts. I've ensured that any motors and electronic components will fit, and I've modeled the Z-axis. (4 hours)
+
+Later that day. 5 Hours Of Modeling
+
+I completed modeling the Toolhead in fusion, and I'll be starting my BOM. Afterwards, I will design a PCB, but I'm not sure what for, but likely something to do with the touchscreen. 
